@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="DSR" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="DSR">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/liyanjie/lyj/dsr" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liyanjie@172.16.0.92:22 password (10)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_566" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liyanjie@172.16.0.92:22 password (11)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/liyanjie/lyj/dsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liyanjie@172.16.0.92:22 password (12)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_775" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liyanjie@172.16.0.92:22 password (13)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/liyanjie/lyj/dsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liyanjie@172.16.0.92:22 password (14)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/liyanjie/lyj/dsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liyanjie@172.16.0.92:22 password (6)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_351" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liyanjie@172.16.0.92:22 password (7)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/liyanjie/lyj/dsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liyanjie@172.16.0.92:22 password (8)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/liyanjie/lyj/dsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liyanjie@172.16.0.92:22 password (9)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/liyanjie/lyj/dsr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
